@@ -739,6 +739,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [logging](https://docs.python.org/2/library/logging.html) - (Python standard library) Logging facility for Python.
 * [Raven](https://github.com/getsentry/raven-python) - The Python client for Sentry.
 * [Sentry](https://pypi.python.org/pypi/sentry) - A realtime logging and aggregation server.
+* [python-agent](https://github.com/sandabuliu/python-agent) - A Framework to receive log, parse log and send the results.
 
 ## Machine Learning
 
